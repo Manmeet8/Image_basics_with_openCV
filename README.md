@@ -1,8 +1,8 @@
-# Computer-Vision-Image-Basics-with-OpenCV
+# Computer Vision:Image Basics with OpenCV
+https://www.coursera.org/projects/computer-vision-opencv-for-images 
 It is a 1-hour long project-based course in coursera. In this course you will learn how to do Computer Vision on images with OpenCV and Python using Jupyter Notebook. 
 
 # Course Objectives
-In this course, you will:
 
 1. Learn the 3 things to keep in mind when working with OpenCV
 2. Learn how to draw on images with code
@@ -33,4 +33,4 @@ Task 9: Event Choices for the Mouse
 
 Task 10: Mouse Functionality
 
-__By the end of this course, you will be able to work with OpenCV on Images.__
+
